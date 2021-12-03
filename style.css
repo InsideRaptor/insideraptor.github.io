@@ -6,7 +6,7 @@ body {
 h1 {
   text-align: center;
   font-family: verdana;
-  font-size: 60vmax;
+  font-size: 4vw;
 }
 
 div {
@@ -16,12 +16,12 @@ div {
 p {
   text-align: center;
   font-family: verdana;
-  font-size: 20px;
+  font-size: 2vw;
   padding: 20px;
 }
 
 img#intro {
-  max-width: 100%;
+  max-width: 40%;
   height: auto;
   border-radius: 12px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -31,5 +31,5 @@ img#intro {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 40%;
 }

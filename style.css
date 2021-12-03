@@ -4,11 +4,16 @@ body {
 }
 
 h1 {
-  color: white;
+  color: black;
   text-align: center;
+  font-size: 100px;
 }
 
 p {
   font-family: verdana;
   font-size: 20px;
+}
+
+img {
+  align-items: center;
 }

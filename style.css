@@ -1,0 +1,14 @@
+body {
+    height: 1080px;
+    background: linear-gradient(to bottom, #00ffccb7 0%, #009999da 100%)
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
